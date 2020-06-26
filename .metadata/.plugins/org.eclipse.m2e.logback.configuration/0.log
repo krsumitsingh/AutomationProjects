@@ -8,3 +8,12 @@
 2020-06-26 19:11:55,168 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\com.qa.ecommerce\src\main\resources
 2020-06-26 19:11:55,169 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-26 19:11:55,169 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\com.qa.ecommerce\src\test\resources
+2020-06-26 19:22:21,951 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Webdriver_Practise:Webdriver_Practise:0.0.1-SNAPSHOT @ D:\GIT PROJECTS\Webdriver_Practise\pom.xml.
+2020-06-26 19:22:26,619 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:22:26,619 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\Webdriver_Practise\src\main\resources
+2020-06-26 19:22:26,621 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:22:26,622 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\Webdriver_Practise\src\test\resources
+2020-06-26 19:22:29,220 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:22:29,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\Webdriver_Practise\src\main\resources
+2020-06-26 19:22:29,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:22:29,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GIT PROJECTS\Webdriver_Practise\src\test\resources
