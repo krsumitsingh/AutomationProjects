@@ -30,7 +30,6 @@ INDEX VERSION 1.127+D:\GIT PROJECTS\.metadata\.plugins\org.eclipse.jdt.core
 1203148362.index
 1649289698.index
 597875205.index
-2128470722.index
 2903597774.index
 3947521672.index
 2038600607.index
