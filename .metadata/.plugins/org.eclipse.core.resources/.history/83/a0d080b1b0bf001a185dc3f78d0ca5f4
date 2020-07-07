@@ -1,0 +1,13 @@
+package arrayExcercises;
+
+public class SortingListOfNumbers {
+
+	public static void main(String[] args) {
+		 int[] num = {50,10,15,90,2}, 
+				 
+		int num1,temp,num2;
+		 num1 = num.length;
+		 
+		
+	}
+}

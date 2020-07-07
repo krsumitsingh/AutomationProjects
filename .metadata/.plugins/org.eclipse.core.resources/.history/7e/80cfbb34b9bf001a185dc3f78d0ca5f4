@@ -1,0 +1,17 @@
+package arrayExcercises;
+
+public class PrintTwoDimensionArray {
+
+	public static void main(String[] args) {
+		
+		int[][] ARRAY_TWO = new int [5][5];
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
