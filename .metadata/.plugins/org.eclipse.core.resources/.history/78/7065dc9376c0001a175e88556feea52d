@@ -1,0 +1,23 @@
+package arrayExcercises;
+
+import java.util.*;
+
+public class Sumvaluesofanarray {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		int i=0;
+		
+		i= scan.nextInt();
+		
+		int[] ARR = new int[i];
+		
+		
+		
+		
+		
+	}
+
+}
