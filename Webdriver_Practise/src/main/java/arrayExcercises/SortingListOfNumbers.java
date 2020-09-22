@@ -21,8 +21,9 @@ public class SortingListOfNumbers {
 		 }
 		 
 		 for(int k=0;k<num1;k++){
-			 System.out.println("The sorted number is-->"+num[k]);
+			 System.out.print(num[k]+ " ");
 		 }	 
-		 System.out.println("With minimum swaps-->"+counter);
+		 System.out.println();
+		 System.out.print("With minimum swaps-->"+counter);
 	}
 }

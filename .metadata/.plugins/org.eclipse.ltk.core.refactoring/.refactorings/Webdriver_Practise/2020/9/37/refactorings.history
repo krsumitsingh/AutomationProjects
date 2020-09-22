@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Webdriver_Practise/src/main/java/normalJavaExcercises/RandomNumberGeneration.java&apos; to &apos;RandomNumberGuess.java&apos;" description="Rename resource &apos;RandomNumberGeneration.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/normalJavaExcercises/RandomNumberGeneration.java" name="RandomNumberGuess.java" stamp="1599634693291" updateReferences="true"/>
+</session>

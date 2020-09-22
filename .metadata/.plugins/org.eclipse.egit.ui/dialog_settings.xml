@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
-	<item value="D:\Guru99-CucumberBDD\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<item value="C:\Users\Sumit Kumar Singh\git\qa.ecommerce\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/krsumitsingh/PageFactoryDesign.git"/>
+		<item value="https://github.com/krsumitsingh/qa.ecommerce.git"/>
+	</list>
 	<section name="GitImportWizard">
 		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
 	</section>

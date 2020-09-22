@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38155" started-at="2019-09-23T14:36:18Z" finished-at="2019-09-23T14:36:56Z">
+  <suite name="Default suite" duration-ms="55880" started-at="2020-08-31T19:21:39Z" finished-at="2020-08-31T19:22:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38155" started-at="2019-09-23T14:36:18Z" finished-at="2019-09-23T14:36:56Z">
+    <test name="Default test" duration-ms="55880" started-at="2020-08-31T19:21:39Z" finished-at="2020-08-31T19:22:35Z">
       <class name="SampleDataDrivenTestNg">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:SampleDataDrivenTestNg@4566e5bd]" name="openBrowser" is-config="true" duration-ms="4772" started-at="2019-09-23T20:06:18Z" finished-at="2019-09-23T20:06:23Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:SampleDataDrivenTestNg@dfd3711]" name="openBrowser" is-config="true" duration-ms="9073" started-at="2020-09-01T00:51:39Z" finished-at="2020-09-01T00:51:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:SampleDataDrivenTestNg@4566e5bd]" name="loginTest" duration-ms="12846" started-at="2019-09-23T20:06:23Z" data-provider="getPRTestData" finished-at="2019-09-23T20:06:36Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:SampleDataDrivenTestNg@dfd3711]" name="loginTest" duration-ms="24422" started-at="2020-09-01T00:51:48Z" data-provider="getPRTestData" finished-at="2020-09-01T00:52:13Z">
           <params>
             <param index="0">
               <value>
@@ -20,38 +20,38 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[Govirtual~1]]>
+                <![CDATA[M1dn!ght*2]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SampleDataDrivenTestNg@4566e5bd]" name="tearDown" is-config="true" duration-ms="891" started-at="2019-09-23T20:06:36Z" finished-at="2019-09-23T20:06:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SampleDataDrivenTestNg@dfd3711]" name="tearDown" is-config="true" duration-ms="1115" started-at="2020-09-01T00:52:13Z" finished-at="2020-09-01T00:52:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:SampleDataDrivenTestNg@4566e5bd]" name="openBrowser" is-config="true" duration-ms="3862" started-at="2019-09-23T20:06:37Z" finished-at="2019-09-23T20:06:41Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:SampleDataDrivenTestNg@dfd3711]" name="openBrowser" is-config="true" duration-ms="8206" started-at="2020-09-01T00:52:14Z" finished-at="2020-09-01T00:52:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:SampleDataDrivenTestNg@4566e5bd]" name="loginTest" duration-ms="14461" started-at="2019-09-23T20:06:41Z" data-provider="getPRTestData" finished-at="2019-09-23T20:06:55Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:1, instance:SampleDataDrivenTestNg@dfd3711]" name="loginTest" duration-ms="11472" started-at="2020-09-01T00:52:22Z" data-provider="getPRTestData" finished-at="2020-09-01T00:52:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ssingh]]>
+                <![CDATA[vsuser]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[intel@01]]>
+                <![CDATA[M1dn!ght*2]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SampleDataDrivenTestNg@4566e5bd]" name="tearDown" is-config="true" duration-ms="726" started-at="2019-09-23T20:06:55Z" finished-at="2019-09-23T20:06:56Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SampleDataDrivenTestNg@dfd3711]" name="tearDown" is-config="true" duration-ms="1047" started-at="2020-09-01T00:52:34Z" finished-at="2020-09-01T00:52:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

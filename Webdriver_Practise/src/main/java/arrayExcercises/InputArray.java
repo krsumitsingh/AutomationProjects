@@ -10,12 +10,12 @@ public class InputArray {
 	
 	
 	public static void main(String[] args) {
-		
+		int[] sam1;
 		scan = new Scanner(System.in);
 		System.out.println("Enter Array length:");
 		i = scan.nextInt();
 		int sam[] = new int[i];
-		System.out.println("The Size of Array is: " +sam.length);	
+ 		System.out.println("The Size of Array is: " +sam.length);	
 		
 		/*sam[0] = 11;
         sam[1] = 9;*/
